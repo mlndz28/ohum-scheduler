@@ -1,0 +1,22 @@
+th {
+	text-align: center;
+	vertical-align: center;
+	background-color: #9EB059;
+	color: white;
+}
+
+
+td {
+	height: 50px;
+	webkit-transition: 1s linear;
+    /*to only change opacity*/
+    /*-webkit-transition: opacity 1s linear*/
+   -moz-transition: 1s linear;
+   -o-transition: 1s linear;
+   transition: 1s linear;
+}
+
+
+panel-default{
+	 border-radius: 80px;
+}
